@@ -1,0 +1,66 @@
+#title{
+    background-color:#ff4c68;
+    color: #fff;
+}
+h1
+    
+{
+    font-family: Arial, Helvetica, sans-serif ;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+.container-fluid{
+    padding: 3% 15%;
+}
+.navbar-brand{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+.nav-item{
+    padding: 0 18px;
+}
+.nav-link
+{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navbar{
+    padding:0 0 3rem;
+}
+.download-button{
+    margin: 10% 5% 0% 0%;
+}
+.title-image{
+       width: 40%;
+       transform: rotate(25deg);
+       padding-top: 20px;
+}
+.heart-h{
+    font-size: 100px;
+}
+
+#features{
+    padding:7% 15%;
+}
+.feature-box{
+    text-align: center;
+    padding: 5%;
+}
+
+h3{
+    font-size: arial ;
+}
+p{
+  color:  #8f8f8f;
+}
+.icon{
+    color: #ef8172;
+ 
+margin-bottom: 2rem;
+}
+.icon:hover{
+    color: #ff4c68;
+}
+#testimonials{
+  background-color: #ef8172;
+}
